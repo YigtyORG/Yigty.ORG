@@ -1,6 +1,6 @@
 # Donation/寄付
-Copyright (C) 2020-2021 Yigty.ORG; all rights reserved.
-Copyright (C) 2020-2021 Takym.
+Copyright (C) 2020-2022 Yigty.ORG; all rights reserved.
+Copyright (C) 2020-2022 Takym.
 
 Thank you for your interest in donating to Yigty.ORG! <br />
 Yigty.ORG への寄付にご興味を持って頂きありがとうございます。
