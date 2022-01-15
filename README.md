@@ -1,6 +1,6 @@
 # Yigty.ORG
-Copyright (C) 2020-2021 Yigty.ORG; all rights reserved.
-Copyright (C) 2020-2021 Takym.
+Copyright (C) 2020-2022 Yigty.ORG; all rights reserved.
+Copyright (C) 2020-2022 Takym.
 
 The main repository of Yigty.ORG.
 
