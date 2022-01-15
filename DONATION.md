@@ -2,8 +2,8 @@
 Copyright (C) 2020-2022 Yigty.ORG; all rights reserved.
 Copyright (C) 2020-2022 Takym.
 
-Thank you for your interest in donating to Yigty.ORG! <br />
-Yigty.ORG への寄付にご興味を持って頂きありがとうございます。
+Yigty.ORG への寄付にご興味を持って頂きありがとうございます。<br />
+Thank you for your interest in donating to Yigty.ORG!
 
 ## Bitcoin
 Bitcoin での寄付を求めています。アドレスは下記の通りです。<br />
