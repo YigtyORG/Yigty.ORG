@@ -4,7 +4,7 @@ Copyright (C) 2020-2023 Takym.
 
 The main repository of Yigty.ORG.
 
-* **Y**igty **i**s **g**reater **t**han previous-Yigt**y**.
+* **Y**igty **i**s: **g**reater **t**han previous-Yigt**y**. <!-- * We want to be the greatest platform, infrastructure, and market! -->
 * The owner: [Takym](https://takym.github.io/)
 
 ## GitHub Organization Name
