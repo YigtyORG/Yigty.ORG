@@ -1,11 +1,17 @@
 # Yigty.ORG
-Copyright (C) 2020-2023 Yigty.ORG; all rights reserved.
-Copyright (C) 2020-2023 Takym.
+Copyright (C) 2020-2025 Yigty.ORG; all rights reserved.
+Copyright (C) 2020-2025 Takym.
 
 The main repository of Yigty.ORG.
 
 * **Y**igty **i**s: **g**reater **t**han previous-Yigt**y**. <!-- * We want to be the greatest platform, infrastructure, and market! -->
 * The owner: [Takym](https://takym.github.io/)
+
+## 注意事項 / Important Notice
+* まだ実態のある組織ではありません。今後の設立に向けて準備しています。
+* 現状、「Yigty.ORG」は「Takym」の別名と見做しても構いません。
+* Our organization does not have an actual status. So, now we are preparing to establish ourselves.
+* "Yigty.ORG" can be considered as the alias of "Takym" at current status.
 
 ## GitHub Organization Name
 * Our formal/official name is **`Yigty.ORG`**. We strongly recommend you use this one.
