@@ -16,9 +16,12 @@ Now preparing...... Please wait patiently.
 Furthermore, the current Yigty.ORG member is only Takym.
 
 ## [@Takym](https://github.com/Takym) 宛に寄付・献金する（Donate to Takym）
-Bitcoin または Monacoin での寄付を求めています。
+私、たかやまは GitHub Sponsors、Bitcoin、または Monacoin での寄付を求めています。
 
-I would like you to donate with Bitcoin or Monacoin.
+I, Takym, would like you to donate with GitHub Sponsors, Bitcoin, or Monacoin.
+
+### GitHub Sponsors
+<https://github.com/sponsors/Takym>
 
 ### Bitcoin
 ```
