@@ -43,6 +43,15 @@ mona1qhyqqhc35v886xnxqtqghcv0pfk0r6qn6qjwh9y
 (このQRコードは Monacoin Core を利用して生成しました。) <br />
 (This QR code is generated with Monacoin Core.)
 
+### その他
+* LINEスタンプ「ジカッキィー」を買う
+	* [LINEスタンプ](https://line.me/S/shop/sticker/author/197955/new?lang=ja&utm_source=gnsh_staut)
+	* [公式アカウント](https://lin.ee/5sJ1DQ9)
+	* [公式ブログ](https://takym.github.io/blog/jikkaky/README.html)
+* Lancers で仕事を依頼する
+	* [私のプロフィール](https://www.lancers.jp/affiliate/track?id=2119206&link=/profile/takym)
+	* [簡単な要望からパソコン向けプログラムをオープンソースで書きます](https://www.lancers.jp/affiliate/track?id=2119206&link=/menu/detail/1304952)
+
 ## もっと募金に協力するには
 このページを SNS 等で拡く共有してください！
 
