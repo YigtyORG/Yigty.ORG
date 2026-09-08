@@ -50,7 +50,6 @@ mona1qhyqqhc35v886xnxqtqghcv0pfk0r6qn6qjwh9y
 	* [公式ブログ](https://takym.github.io/blog/jikkaky/README.html)
 * Lancers で仕事を依頼する
 	* [私のプロフィール](https://www.lancers.jp/affiliate/track?id=2119206&link=/profile/takym)
-	* [簡単な要望からパソコン向けプログラムをオープンソースで書きます](https://www.lancers.jp/affiliate/track?id=2119206&link=/menu/detail/1304952)
 
 ## もっと募金に協力するには
 このページを SNS 等で拡く共有してください！
